@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Default: TLS only, system CAs only (no user-installed CAs). -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <!-- Vendor SDK license endpoints are plain HTTP and cannot be changed from the app.
+         Cleartext is allowed for these hosts only. See SECURITY_AUDIT.md (finding V-1). -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">admin.hfims.com</domain>
+        <domain includeSubdomains="false">123.60.25.75</domain>
+    </domain-config>
+</network-security-config>

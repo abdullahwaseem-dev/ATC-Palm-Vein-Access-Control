@@ -1,0 +1,62 @@
+ATC PALM ACCESS: PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 ATC. All rights reserved.
+
+This repository, including all source code, object code, documentation,
+designs, user-interface layouts, graphics, logos, trademarks and any other
+material contained in it (together, the "Software"), is the exclusive
+property of ATC and is protected by copyright, trademark and other
+intellectual-property laws and international treaties.
+
+1. NO LICENSE GRANTED
+   The Software is published for viewing and reference only. Being able to
+   see the Software publicly on GitHub does NOT give you any licence or right
+   to use it. No licence, express or implied, by estoppel or otherwise, is
+   granted to any person except as stated in a separate written agreement
+   signed by an authorised representative of ATC.
+
+2. PROHIBITED ACTIONS
+   Without the prior written permission of ATC, you may NOT, in whole or in
+   part:
+     a) copy, reproduce, download for reuse, or mirror the Software;
+     b) modify, translate, adapt or create derivative works of it;
+     c) compile, build, install, run or deploy it on any device;
+     d) distribute, publish, sublicense, sell, rent, lease or lend it;
+     e) use it, or any part of it, in another product, service or project,
+        whether commercial or non-commercial;
+     f) remove or alter any copyright, trademark or proprietary notice;
+     g) use the Software or its outputs to train machine-learning models;
+     h) reverse engineer any build of it, except where applicable law
+        expressly permits this despite this restriction.
+
+3. GITHUB TERMS
+   The only rights granted are the limited rights required by the GitHub
+   Terms of Service: viewing this repository and forking it within GitHub's
+   own platform. A fork made under those terms grants no further right to
+   use, modify, build or distribute the Software, and all restrictions above
+   continue to apply to every fork.
+
+4. TRADEMARKS
+   "ATC", the ATC logo and "ATC Palm Access" are trademarks of ATC. No right
+   to use them is granted.
+
+5. THIRD-PARTY COMPONENTS
+   This repository does not contain, and this licence does not cover, the
+   proprietary hardware SDKs of their respective owners (HFSecurity VP530
+   palm-vein SDK, eyecool UVC camera library, Hibory board API). Those
+   remain the property of their owners. Open-source dependencies listed in
+   pubspec.yaml are used under their own licences.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL ATC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
+
+7. ENFORCEMENT
+   Any use of the Software in breach of this licence is copyright
+   infringement and may result in civil and criminal liability. ATC
+   reserves all rights and remedies, including DMCA takedown notices
+   against infringing copies.
+
+For licensing, partnership or commercial enquiries, contact ATC through
+the repository owner's GitHub profile.

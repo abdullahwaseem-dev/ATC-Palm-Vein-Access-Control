@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- VP530 IR palm camera variants -->
+    <usb-device vendor-id="7532" product-id="259" />   <!-- 0x1D6C:0x0103 -->
+    <usb-device vendor-id="1287" product-id="1409" />  <!-- 0x0507:0x0581 -->
+    <!-- VP530 RGB camera (QR fallback) -->
+    <usb-device vendor-id="11391" product-id="19040" /> <!-- 0x2C7F:0x4A60 -->
+</resources>
